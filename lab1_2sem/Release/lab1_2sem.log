@@ -1,0 +1,10 @@
+﻿  lab1_2sem.cpp
+C:\Users\dvork\Dropbox\Projects\lab1_2sem\lab1_2sem.cpp(21): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\dvork\Dropbox\Projects\lab1_2sem\lab1_2sem.cpp(59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\dvork\Dropbox\Projects\lab1_2sem\lab1_2sem.cpp(97): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  0 of 235 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab1_2sem.vcxproj -> C:\Users\dvork\Dropbox\Projects\lab1_2sem\Release\lab1_2sem.exe

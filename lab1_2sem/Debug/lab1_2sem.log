@@ -1,0 +1,6 @@
+﻿  lab1_2sem.cpp
+C:\Users\dvork\Dropbox\Projects\lab1_2sem\lab1_2sem.cpp(51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\dvork\Dropbox\Projects\lab1_2sem\lab1_2sem.cpp(72): error C2065: p: необъявленный идентификатор
+C:\Users\dvork\Dropbox\Projects\lab1_2sem\lab1_2sem.cpp(77): error C2065: p: необъявленный идентификатор
+C:\Users\dvork\Dropbox\Projects\lab1_2sem\lab1_2sem.cpp(78): error C2065: p: необъявленный идентификатор
+C:\Users\dvork\Dropbox\Projects\lab1_2sem\lab1_2sem.cpp(88): warning C4244: =: преобразование "double" в "float", возможна потеря данных
